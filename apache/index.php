@@ -76,7 +76,7 @@
 <body>
     <div class="container">
         <img src="./images/perfil.png" alt="Foto de perfil" class="profile-img">
-        <h1>Orlando Bojorquez Preciado</h1>
+        <h1>Orlando Bojorquez Preciadoo</h1>
         <p>Desarrollador Web | Diseñador UX/UI | Java | Python</p>
         <a href="#" class="btn">Ver Proyectos</a>
         <div class="contact">
